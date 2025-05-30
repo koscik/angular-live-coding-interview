@@ -7,14 +7,14 @@ import { MatFormField, MatInput } from '@angular/material/input';
 import { tap } from 'rxjs';
 
 @Component({
-  selector: 'app-edit-user-answer',
+  selector: 'app-task-answer',
   imports: [MatFormField, MatLabel, MatInput, ReactiveFormsModule, MatButton],
-  templateUrl: './edit-user-answer.component.html',
-  styleUrl: './edit-user-answer.component.scss',
+  templateUrl: './task-answer.component.html',
+  styleUrl: './task-answer.component.scss',
   standalone: true,
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
-export class EditUserAnswerComponent implements OnInit {
+export class TaskAnswerComponent implements OnInit {
   destroyRef = inject(DestroyRef);
 
   form = new FormGroup({
