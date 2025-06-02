@@ -4,24 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e481f74-f76a-4106-8350-12d35c2f32d9" name="Changes" comment="prettier added">
-      <change afterPath="$PROJECT_DIR$/src/app/components/edit-user/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/task-answer-do-not-open/edit-user-answer/edit-user-answer.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/task-answer-do-not-open/edit-user-answer/edit-user-answer.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/task-answer-do-not-open/edit-user-answer/edit-user-answer.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/task-answer-do-not-open/edit-user-answer/edit-user-answer.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/styles/fonts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/styles/material.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/styles/reset.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/components/edit-user/edit-user.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/edit-user/edit-user.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/styles/styles.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    <list default="true" id="6e481f74-f76a-4106-8350-12d35c2f32d9" name="Changes" comment="repository moved a directory up">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/task-answer-do-not-open/task-answer/task-answer.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/task-answer-do-not-open/task-answer/task-answer.component.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,11 +15,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2xlZ9HK73fSVGXZ2nkU6JEcMyMQ" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -46,14 +32,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/kosci/Documents/Code/Interviews/angular-live-coding/angular-live-coding",
+    "last_opened_file_path": "C:/Users/kosci/Documents/Code/Interviews/angular-live-coding",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "prettierjs.PrettierConfiguration.Package": "C:\\Users\\kosci\\Documents\\Code\\Interviews\\angular-live-coding\\angular-live-coding\\node_modules\\prettier",
     "settings.editor.selected.configurable": "preferences.pluginManager",
-    "ts.external.directory.path": "C:\\Users\\kosci\\Documents\\Code\\Interviews\\angular-live-coding\\angular-live-coding\\node_modules\\typescript\\lib"
+    "ts.external.directory.path": "C:\\Users\\kosci\\Documents\\Code\\Interviews\\angular-live-coding\\node_modules\\typescript\\lib"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -84,7 +71,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.222" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.26574.96" />
       </set>
     </attachedChunks>
   </component>
@@ -99,7 +86,8 @@
     <MESSAGE value="empty app component" />
     <MESSAGE value="angular 19" />
     <MESSAGE value="prettier added" />
-    <option name="LAST_COMMIT_MESSAGE" value="prettier added" />
+    <MESSAGE value="repository moved a directory up" />
+    <option name="LAST_COMMIT_MESSAGE" value="repository moved a directory up" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

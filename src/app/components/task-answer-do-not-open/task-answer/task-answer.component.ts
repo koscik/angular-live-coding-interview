@@ -17,13 +17,13 @@ import { tap } from 'rxjs';
 export class TaskAnswerComponent implements OnInit {
   destroyRef = inject(DestroyRef);
 
+  @Output() formUpdated = new EventEmitter<UserForm>();
+
   form = new FormGroup({
     firstName: new FormControl<string>('', { nonNullable: true, validators: [Validators.required] }),
     lastName: new FormControl<string>('', { nonNullable: true, validators: [Validators.required] }),
     age: new FormControl<number>(18, { nonNullable: true }),
   });
-
-  @Output() formUpdated = new EventEmitter<UserForm>();
 
   ngOnInit(): void {
     this.watchForFormChanges();
