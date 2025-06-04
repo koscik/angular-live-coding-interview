@@ -13,7 +13,7 @@ open `edit-user.component` and define a form with the following fields:
 
 
 
-## Additional tasks:
+## Follow-up tasks:
 1. center the form in the view
 2. rework the form so it emits the `@Output` every time user makes a change in the form
 3. make it so the emitting doesn't happen more than once every 500ms
